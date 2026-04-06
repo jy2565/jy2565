@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WSU IT center.
+- 🔭 I’m currently at WSU IT center.
 - 🌱 I’m currently learning about Bio-health field
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
