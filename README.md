@@ -4,12 +4,10 @@
   <img src="jyc.jpg" width="400">
 </p>
 
-##내가 하고 있는 프로젝트는
-1. 여행 AI 매니저 : 
+## 내가 하고 있는 프로젝트는
+1. 여행 AI 매니저 : https://github.com/jy2565/myfirst
 
-**jy2565/jy2565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently at WSU IT center.
 - 🌱 I’m currently learning about Bio-health field
