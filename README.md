@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-<!--
+
 **jy2565/jy2565** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WSU
+- 🔭 I’m currently working on WSU IT center.
 - 🌱 I’m currently learning about Bio-health field
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 010-9950-0901
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
